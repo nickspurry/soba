@@ -1,0 +1,8 @@
+[package]
+name = "soba"
+version = "0.0.0"
+edition = "2021"
+description = "Reserved name for future project"
+license = "MIT"
+
+[dependencies]
